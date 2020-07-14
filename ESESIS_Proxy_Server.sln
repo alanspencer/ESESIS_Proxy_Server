@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESESIS_Proxy_Server", "ESESIS_Proxy_Server.csproj", "{1A011D4D-DEF3-4F51-A2F9-86DF3FE80B28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A011D4D-DEF3-4F51-A2F9-86DF3FE80B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A011D4D-DEF3-4F51-A2F9-86DF3FE80B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A011D4D-DEF3-4F51-A2F9-86DF3FE80B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A011D4D-DEF3-4F51-A2F9-86DF3FE80B28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E338089C-5ED0-471C-BE35-8CF0A89603EE}
+	EndGlobalSection
+EndGlobal
